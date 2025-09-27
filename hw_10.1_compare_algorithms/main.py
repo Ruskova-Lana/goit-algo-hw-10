@@ -1,5 +1,5 @@
-from goit_hw_10.greedy import find_coins_greedy
-from goit_hw_10.dp import find_min_coins
+from greedy import find_coins_greedy
+from dp import find_min_coins
 
 if __name__ == "__main__":
     amount = 113
